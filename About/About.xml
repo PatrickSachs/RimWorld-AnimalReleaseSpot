@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Animal Release Spot</name>
+  <author>Lilith</author>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <packageId>lilith.animalreleasespot</packageId>
+  <description>Adds a new spot to release colony animals to.</description>
+</ModMetaData>
